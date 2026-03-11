@@ -1,0 +1,10 @@
+class Solution {
+    public void printNos(int n) {
+        if (n == 0) {
+            return;
+        }
+        
+        printNos(n - 1);   // recursion call
+        System.out.print(n + " ");
+    }
+}
