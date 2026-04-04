@@ -9,6 +9,7 @@ class Solution {
             } else {
                 arr[0] = i;
                 arr[1] = value;
+                return arr;
             }
         }
         return arr;
