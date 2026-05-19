@@ -9,7 +9,6 @@ class Solution {
                 res.append(" ");
             }
         }
-
         return res.toString().trim();
     }
 }
