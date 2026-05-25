@@ -9,7 +9,6 @@ class Solution {
             if (sum == target) {
                 return new int[] { i + 1, j + 1 };
             }
-
             if (sum < target) {
                 i++;
             } else {
