@@ -9,6 +9,7 @@ class Solution {
 
         // for each 'i' find the two other elements
         for (int i = 0; i < nums.length - 2; i++) {
+
             // find other two elements using Two sum approach
             int left = i + 1;
             int right = nums.length - 1;
