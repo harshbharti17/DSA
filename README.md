@@ -8,6 +8,7 @@
 | [0018-4sum](https://github.com/harshbharti17/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/harshbharti17/DSA/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshbharti17/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/harshbharti17/DSA/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/harshbharti17/DSA/tree/master/0141-linked-list-cycle) |
+| [0904-fruit-into-baskets](https://github.com/harshbharti17/DSA/tree/master/0904-fruit-into-baskets) |
 ## Linked List
 |  |
 | ------- |
@@ -37,6 +39,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/harshbharti17/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/harshbharti17/DSA/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
