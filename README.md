@@ -7,6 +7,7 @@
 | [0016-3sum-closest](https://github.com/harshbharti17/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/harshbharti17/DSA/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/harshbharti17/DSA/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/harshbharti17/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/harshbharti17/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/harshbharti17/DSA/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshbharti17/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -81,4 +82,12 @@
 | ------- |
 | [0066-plus-one](https://github.com/harshbharti17/DSA/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/harshbharti17/DSA/tree/master/0202-happy-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/harshbharti17/DSA/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/harshbharti17/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
