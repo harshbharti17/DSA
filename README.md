@@ -15,6 +15,7 @@
 | [0152-maximum-product-subarray](https://github.com/harshbharti17/DSA/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshbharti17/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/harshbharti17/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0525-contiguous-array](https://github.com/harshbharti17/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/harshbharti17/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/harshbharti17/DSA/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/harshbharti17/DSA/tree/master/0904-fruit-into-baskets) |
@@ -52,6 +53,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/harshbharti17/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/harshbharti17/DSA/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/harshbharti17/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0525-contiguous-array](https://github.com/harshbharti17/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/harshbharti17/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/harshbharti17/DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/harshbharti17/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -81,6 +83,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/harshbharti17/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/harshbharti17/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/harshbharti17/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/harshbharti17/DSA/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/harshbharti17/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
