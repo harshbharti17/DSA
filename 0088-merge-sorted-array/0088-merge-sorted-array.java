@@ -16,7 +16,6 @@ class Solution {
             }
             k--;
         }
-
         // Agar nums2 me kuch elements bach gaye
         while (j >= 0) {
             nums1[k] = nums2[j];
